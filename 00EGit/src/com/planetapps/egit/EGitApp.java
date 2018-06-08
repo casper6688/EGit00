@@ -7,6 +7,7 @@ public class EGitApp {
 		System.out.println("Hello, EGit!!");
 		System.out.println("Second line.");
 		System.out.println("Bug fix"); 
+		System.out.println("Last line");
 	}
 
 }
