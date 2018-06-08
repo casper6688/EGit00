@@ -8,6 +8,7 @@ public class EGitApp {
 		System.out.println("Second line.");
 		System.out.println("Bug fix"); 
 		System.out.println("Last line");
+		System.out.println("Last last line for fetch or pull");
 	}
 
 }
