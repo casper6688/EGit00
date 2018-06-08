@@ -6,6 +6,7 @@ public class EGitApp {
 		// TODO Auto-generated method stub
 		System.out.println("Hello, EGit!!");
 		System.out.println("Second line.");
+		System.out.println("Bug fix");
 	}
 
 }
